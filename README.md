@@ -13,3 +13,14 @@ This repository conains information on how I learned contract testing. _(this is
 - Additional Examples
   - [Showcase: JVM](https://github.com/slu-it/showcase-pact-jvm-consumer-jvm-provider)
   - [Showcase: JVM / JS](https://github.com/slu-it/showcase-pact-jvm-consumer-jvm-provider)
+
+## From Integration to Contract Tests
+
+### Integration Testing
+![Integration Testing](img/integration-tests.png)
+
+### Service Simulation
+![Service Simulation](img/service-simulation.png)
+
+### Contract Testing
+![Contract Testing](img/contract-testing.png)
